@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![EPhrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrataak&theme=gruvbox_light)
+<!-- ![EPhrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrataak&theme=gruvbox_light) -->
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrataak&layout=compact)
