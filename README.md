@@ -19,7 +19,7 @@ Hi, there<br>I Am Ephrata<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/ephrata-ak) 
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&width="30px")](https://linkedin.com/in/ephrata-ak) 
 
 ## 🧰 Languages and Tools:
 
