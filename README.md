@@ -45,7 +45,7 @@ Website: [ephrataaddisalem](https://ephrataaddisalem.com/)
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
-
+<br/>
 ## 📊 Stats:
 ![Ephrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrataak&show_icons=true&theme=radical)
 <br/>
