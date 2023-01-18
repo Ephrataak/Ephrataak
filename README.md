@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 # 💫 About Me:
 I Am Ephrata<br>
-![Profile views](https://komarev.com/ghpvc/?username=Ephrataak)
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/color/48/null/linkedin.png")](https://linkedin.com/in/ephrata-ak) 
+[![LinkedIn][(https://img.icons8.com/color/48/null/linkedin.png)](https://linkedin.com/in/ephrata-ak) 
 
 ## 🧰 Languages and Tools:
 
