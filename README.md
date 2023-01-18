@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 # 💫 About Me:
 I Am Ephrata, a full-stack developer building my version of the digital world one step at a time.<br>
-Website: [ephrataaddisalem](https://ephrataaddisalem.com/)
+<!-- Website: [ephrataaddisalem](https://ephrataaddisalem.com/) -->
 
 
 
