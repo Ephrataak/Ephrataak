@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 # 💫 About Me:
 I Am Ephrata<br>
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile views](https://komarev.com/ghpvc/?username=Ephrataak)
 
 
 ## 🌐 Socials:
