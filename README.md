@@ -15,11 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-Hi, there<br>I Am Ephrata<br>
+I Am Ephrata<br>
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&width="30px")](https://linkedin.com/in/ephrata-ak) 
+[![LinkedIn](https://img.icons8.com/color/48/null/linkedin.png")](https://linkedin.com/in/ephrata-ak) 
 
 ## 🧰 Languages and Tools:
 
